@@ -1,4 +1,4 @@
-# YoutubeDescriptionUpdater
+# Youtube Description Updater
 
 This is a pet project from 2019, which uses `requests` module to perform REST API requests to Google.
 The result of the requests are that all the user's videos description are updated.

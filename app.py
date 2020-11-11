@@ -59,7 +59,7 @@ class YotubeDescriptionUpdater():
         """read the client json details file"""
         print("Getting Google API client details...\n")
         filename = filename+".json"
-        with open(filename) as file_obj:
+        with open('env/'+filename) as file_obj:
             client_details = json.load(file_obj)
         return client_details["client_id"], client_details["client_secret"]
 

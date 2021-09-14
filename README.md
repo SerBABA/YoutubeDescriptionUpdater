@@ -1,7 +1,7 @@
 # Youtube Description Updater
 
 This is a pet project from 2019, which uses `requests` module to perform REST API requests to Google.
-The result of the requests are that all the user's videos description are updated.
+The result of the requests is that all the user's videos descriptions are updated.
 
 This entails either replacing or add to your description. This project eventually was discontinued in
 17/04/2020 once I began to grow more interest in other side projects. 
